@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+
+.ambitious-ocean-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 60vw;
+  transform: translate(-50%, -50%);
+  font-family: 'Borel', cursive;
+  font-size: 8vw;
+  color: #000089; /* Cobalt blue */
+  text-align: center;
+  user-select: none;
+  pointer-events: none;
+  white-space: nowrap;
+}
